@@ -12,3 +12,11 @@ ls
 ```shell
 npm run start
 ```
+
+## Setup using vite
+```shell
+npm create vite@latest
+cd my-project
+npm run dev
+```
+
